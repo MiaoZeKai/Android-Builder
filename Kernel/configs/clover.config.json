@@ -5,7 +5,7 @@
       "repo": "https://github.com/Canary233/android_kernel_xiaomi_clover",
       "branch": "11",
       "device": "clover",
-      "defconfig": "configs/clover_defconfig"
+      "defconfig": "clover_defconfig"
     },
     "toolchains": [
       {
